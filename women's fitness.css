@@ -1,0 +1,36 @@
+.navbar{
+    background-color: #FFC233 !important;
+}
+.table-div{
+    width: 600px;
+    padding: 30px;
+}
+.main-container{
+    background-color: #EAEDED;
+}
+.heading-1{
+    background-color: #FFC233;    
+}
+.heading-2{
+    background-color: #D2D2D0;
+}
+.footer{
+    background-color: #FFC233;
+    margin-top: 20px;
+    padding: 10px;
+}
+.display-4{
+    font-weight: bold;
+    color:  #3B82CB !important;
+}
+.heading{
+    color:  #3B82CB !important;
+    font-weight: 700;
+    text-align: center; 
+} 
+@media screen and (max-width: 600px) {
+     .table-div{
+      width: 100%;
+    }
+  }
+  

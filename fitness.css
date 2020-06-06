@@ -1,0 +1,45 @@
+.navbar{
+    background-color: #FFC233 !important;
+    font-weight: bold;
+}
+.display-4{
+    /* font-family: 'Passion One', cursive; */
+    text-align: center;
+    color:  #3B82CB !important;
+    font-weight: bold;
+}
+.motivation{
+    width: 100%;
+    flex-wrap: wrap ;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+.heading-1{
+    margin-top: 30px;
+}
+.diting{   
+    flex-wrap: wrap ;
+    text-align: center;
+    padding-top: 10px  !important;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: 20px;
+}
+.images{
+    margin-top: 10px;
+}
+.main-container{
+    background-color: #EAEDED ;
+}
+.footer{
+    background-color: #FFC233;
+    margin-top: 20px;
+    padding: 10px;
+}
+@media only screen and (max-width: 600px) {
+    .diting{
+        width: 100%;
+    }
+}

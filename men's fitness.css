@@ -1,0 +1,40 @@
+.navbar{
+    background-color: #FFC233 !important;
+}
+.display-4{
+    font-weight: bold;
+    color:  #3B82CB !important;
+}
+.heading-1{
+    text-align: center; 
+    color: #3B82CB ;
+}
+.display-5{
+    color:  #3B82CB !important;
+    font-weight: 700;
+    text-align: center;    
+}
+.chest{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;    
+    justify-content: space-around; 
+}
+.ul-div, .img-div{
+    display: flex; 
+} 
+.heading-2{
+    color:  #3B82CB !important;
+    font-weight: 700;
+    text-align: center;   
+}
+.main-body{
+    background-color: #EAEDED;
+    margin-top: 0%;
+    padding-top: 0%;
+}
+.footer{
+    background-color: #FFC233;
+    margin-top: 20px;
+    padding: 10px;
+}

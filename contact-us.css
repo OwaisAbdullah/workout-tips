@@ -1,0 +1,40 @@
+.navbar{
+    background-color: #FFC233 !important;
+    font-weight: bold;
+}
+.display-4{
+    text-align: center;
+    color:  #3B82CB !important;
+    font-weight: bold;
+}
+.footer{
+    background-color: #FFC233;
+    margin-top: 20px;
+    padding: 10px;
+}
+.main-container{
+    background-color: #EAEDED ;
+}
+.contacts{
+    flex-basis: 80%;
+    padding: 30;
+}
+.Social-Media{
+    text-align: center; 
+    flex-basis: 20%; 
+    padding: 30;
+}    
+.linking{
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.fa-facebook-square, .fa-twitter-square, .fa-instagram , .fa-whatsapp{
+    font-size: 28px !important;
+    justify-content: space-around;
+}
+.display-4{
+    color: #3B82CB;
+    font-weight: bold;
+    font-family: 'Piedra', cursive;
+}
